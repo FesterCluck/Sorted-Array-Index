@@ -1,0 +1,24 @@
+{
+  "name" : "sorted-array-index"
+  ,"version" : "0.1.0"
+  ,"description" : "Create & sort reference arrays of arrays "
+  ,"main" : "sortedindex.js"
+  ,"dependencies": []
+  ,"repositories": [{
+    "type": "git"
+    ,"path": "git://github.com/FesterCluck/Sorted-Array-Index.git"
+  }]
+  ,"homepage": "https://github.com/FesterCluck/Sorted-Array-Index"
+  ,"bugs": "https://github.com/FesterCluck/Sorted-Array-Index/issues"
+  ,"maintainers": [{
+    "name": "Stephen Kraushaar"
+    ,"email": "skraushaar@gmail.com"
+    ,"url": "http://github.com/festercluck/"
+  }]
+  ,"author": {
+    "name": "Stephen Kraushaar"
+    ,"email": "skraushaar@gmail.com"
+    ,"url": "http://github.com/festercluck/"
+  }
+  ,"licenses": [{ "type": "MIT" }]
+}
